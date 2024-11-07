@@ -71,24 +71,28 @@ streamlit run app0.py
 ![Screenshot 3](https://github.com/klintfox/streamlit_course/blob/main/assets/0-2.PNG?raw=true)
 
 ![Screenshot 4](https://github.com/klintfox/streamlit_course/blob/main/assets/0-3.PNG?raw=true)
-
+</p>
 ***
-### Audio, Video Image y Dataframe - App1.py
 
+<p align="center">
+### Audio, Video Image y Dataframe - App1.py
 
 ![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/1-0.PNG?raw=true)
 
 ![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/1-1.PNG?raw=true)
-
+</p>
 ***
-### Charts - App2.py
 
+<p align="center">
+### Charts - App2.py
 
 ![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/2-0.PNG?raw=true)
 
 ![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/2-1.PNG?raw=true)
-
+</p>
 ***
+
+<p align="center">
 ### Carga y Guardado de Archivos - App3.py
 
 ![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/3-0.PNG?raw=true)
@@ -96,6 +100,6 @@ streamlit run app0.py
 ![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/3-1.PNG?raw=true)
 
 ![Screenshot 3](https://github.com/klintfox/streamlit_course/blob/main/assets/3-2.PNG?raw=true)
-</p>
 
+</p>
 ***
