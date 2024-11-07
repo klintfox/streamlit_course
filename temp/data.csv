@@ -1,0 +1,26 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+10-01-24,Brazil,Argentina,2,1,Friendly,Rio de Janeiro,Brazil,FALSE
+15-03-24,Spain,Portugal,1,1,Friendly,Madrid,Spain,FALSE
+02-05-24,France,Germany,3,2,Friendly,Paris,France,FALSE
+07-06-24,Italy,England,0,0,Friendly,Rome,Italy,FALSE
+21-07-24,USA,Mexico,2,3,Friendly,New York,USA,FALSE
+13-09-24,South Korea,Japan,1,1,Friendly,Seoul,South Korea,FALSE
+22-11-24,Egypt,Tunisia,2,0,Friendly,Cairo,Egypt,FALSE
+03-12-24,Netherlands,Belgium,2,1,Friendly,Amsterdam,Netherlands,FALSE
+16-02-25,Greece,Turkey,1,1,Friendly,Athens,Greece,FALSE
+05-04-25,Colombia,Chile,3,1,Friendly,Bogot�,Colombia,FALSE
+18-06-25,Australia,New Zealand,1,1,Friendly,Sydney,Australia,TRUE
+25-08-25,Denmark,Sweden,0,0,Friendly,Copenhagen,Denmark,FALSE
+30-09-25,Poland,Ukraine,2,1,Friendly,Warsaw,Poland,FALSE
+12-10-25,Chile,Peru,1,1,Friendly,Santiago,Chile,FALSE
+01-12-25,Canada,USA,1,2,Friendly,Toronto,Canada,FALSE
+15-01-26,South Africa,Kenya,2,0,Friendly,Johannesburg,South Africa,TRUE
+20-03-26,Scotland,Republic of Ireland,0,0,Friendly,Edinburgh,Scotland,FALSE
+10-04-26,Serbia,Croatia,2,3,Friendly,Belgrade,Serbia,FALSE
+30-05-26,Nigeria,Senegal,1,2,Friendly,Lagos,Nigeria,FALSE
+05-06-26,Portugal,Spain,1,1,Friendly,Porto,Portugal,FALSE
+15-08-26,India,Thailand,3,0,Friendly,New Delhi,India,FALSE
+25-09-26,Peru,Paraguay,1,1,Friendly,Lima,Peru,FALSE
+05-10-26,Italy,France,2,0,Friendly,Milan,Italy,FALSE
+15-11-26,Argentina,Brazil,1,1,Friendly,Buenos Aires,Argentina,FALSE
+10-01-27,Japan,Australia,2,1,Friendly,Tokyo,Japan,FALSE

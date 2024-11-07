@@ -1,0 +1,6 @@
+streamlit==1.10.0
+black==22.3.0
+plotly==5.5.0
+docx2txt==0.8
+PyPDF2==1.26.0
+openpyxl==3.0.9

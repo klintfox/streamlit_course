@@ -1,0 +1,31 @@
+EmpID,Gender,Age,MaritalStatus,JobLevel,Experience,Dept,EmpType,WLB,WorkEnv,PhysicalActivityHOurs,Workload,Stress,SleepHours,CommuteMode,CommuteDistance,NumCompanies,TeamSize,NumReports,EduLevel,haveOT,TrainingHoursPerYear,JobSatisfaction
+1,Male,26,Married,Mid,7,IT,Full-Time,4,3,1.6,1,1,8.2,Car,20,3,12,0,Bachelor,TRUE,33.5,5
+2,Female,32,Single,Senior,10,HR,Full-Time,3,4,0.5,2,2,7.5,Public Transport,12,4,10,0,Master,TRUE,40,4
+3,Male,29,Married,Junior,4,Finance,Full-Time,5,2,1,2,3,7.8,Car,15,2,8,0,Bachelor,FALSE,30,6
+4,Female,35,Divorced,Mid,8,Marketing,Full-Time,2,3,1.2,2,1,8,Public Transport,10,3,15,1,Master,TRUE,25,3
+5,Male,41,Married,Senior,15,Sales,Full-Time,4,5,0.7,3,4,7,Car,25,6,20,3,Bachelor,FALSE,20,7
+6,Female,27,Single,Mid,5,IT,Full-Time,3,3,2,2,2,8.5,Car,18,4,10,0,Bachelor,TRUE,35,5
+7,Male,39,Married,Senior,12,Operations,Full-Time,2,4,1,2,3,6.8,Public Transport,14,5,12,1,Master,FALSE,28,6
+8,Female,24,Single,Junior,3,Finance,Full-Time,4,2,1.5,1,2,8,Car,12,2,6,0,Bachelor,TRUE,40,4
+9,Male,33,Married,Mid,9,HR,Full-Time,3,3,0.5,2,2,7.5,Public Transport,13,3,10,1,Master,FALSE,22,5
+10,Female,30,Married,Junior,4,Marketing,Full-Time,5,3,1,3,1,7.8,Car,20,4,8,0,Bachelor,FALSE,38,4
+11,Male,45,Married,Senior,20,IT,Full-Time,1,5,0.2,4,4,6.5,Public Transport,30,6,15,2,Master,TRUE,45,8
+12,Female,28,Single,Mid,6,Operations,Full-Time,3,3,1.5,2,2,8,Car,14,4,10,1,Bachelor,FALSE,30,5
+13,Male,50,Married,Senior,25,Finance,Full-Time,2,4,0.8,3,5,6,Public Transport,40,5,18,2,Master,TRUE,50,9
+14,Female,23,Single,Junior,2,HR,Full-Time,4,2,2,1,2,8.2,Car,8,2,5,0,Bachelor,FALSE,25,6
+15,Male,38,Divorced,Mid,11,Sales,Full-Time,3,4,1,2,3,7.7,Public Transport,16,5,12,1,Bachelor,TRUE,30,7
+16,Female,40,Married,Senior,14,Marketing,Full-Time,2,5,0.5,3,4,6.5,Car,22,6,20,3,Master,FALSE,40,6
+17,Male,34,Single,Junior,6,IT,Full-Time,5,3,1.5,1,2,8,Car,20,3,10,0,Bachelor,TRUE,33,5
+18,Female,27,Married,Mid,7,Finance,Full-Time,3,4,1,2,1,7.5,Public Transport,18,4,8,0,Bachelor,FALSE,25,6
+19,Male,31,Single,Mid,8,Operations,Full-Time,3,3,0.7,2,3,7.2,Car,10,3,12,1,Bachelor,FALSE,20,7
+20,Female,29,Married,Junior,3,HR,Full-Time,4,2,1.3,1,1,8.5,Public Transport,12,2,7,0,Bachelor,TRUE,38,5
+21,Male,42,Divorced,Senior,18,Marketing,Full-Time,2,5,0.6,3,4,6.7,Car,25,6,18,3,Master,TRUE,35,6
+22,Female,30,Single,Mid,9,Sales,Full-Time,3,3,1.2,2,2,7.8,Car,18,3,10,1,Bachelor,FALSE,28,5
+23,Male,26,Married,Junior,4,IT,Full-Time,5,3,2,1,1,8.2,Car,15,2,10,0,Bachelor,TRUE,30,6
+24,Female,33,Single,Senior,12,HR,Full-Time,1,4,1,3,4,7,Public Transport,20,5,15,2,Master,TRUE,45,8
+25,Male,29,Married,Mid,7,Sales,Full-Time,4,3,1.5,2,2,7.5,Car,18,3,12,1,Bachelor,FALSE,35,6
+26,Female,32,Divorced,Junior,3,Finance,Full-Time,4,2,1,1,2,8,Public Transport,10,2,6,0,Bachelor,FALSE,30,5
+27,Male,37,Single,Mid,10,IT,Full-Time,3,4,0.5,2,3,7.5,Car,20,3,8,1,Master,FALSE,25,6
+28,Female,24,Married,Junior,2,Marketing,Full-Time,5,2,2,1,1,8.5,Public Transport,12,2,5,0,Bachelor,TRUE,40,4
+29,Male,40,Married,Senior,16,Operations,Full-Time,3,4,1,3,3,7,Car,22,5,18,2,Master,FALSE,30,7
+30,Female,28,Single,Mid,7,HR,Full-Time,4,3,1.3,2,2,7.8,Public Transport,15,4,10,1,Bachelor,TRUE,35,6
