@@ -59,7 +59,7 @@ streamlit run app0.py
 ```
 *** 
 
-## Assets
+## Screenshots
 
 <p align="center">
 
