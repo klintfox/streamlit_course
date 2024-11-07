@@ -64,7 +64,7 @@ streamlit run app0.py
 <p align="center">
 ### Formulario - App0.py
 
-![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/0.PNG?raw=true)
+![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/0.png?raw=true)
 
 </p>
 ***
@@ -72,7 +72,7 @@ streamlit run app0.py
 <p align="center">
 ### Audio, Video Image y Dataframe - App1.py
 
-![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/1.PNG?raw=true)
+![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/1.png?raw=true)
 
 </p>
 ***
