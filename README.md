@@ -62,13 +62,13 @@ streamlit run app0.py
 ## Assets
 
 ### App0.py 
-![Screenshot 1](https://github.com/klintfox/streamlit_course/assets/0-0.png?raw=true)
+![Screenshot 1](https://github.com/klintfox/streamlit_course/tree/main/assets/0-0.png?raw=true)
 
-![Screenshot 2](https://github.com/klintfox/streamlit_course/assets/0-1.png?raw=true)
+![Screenshot 2](https://github.com/klintfox/streamlit_course/tree/main/assets/0-1.png?raw=true)
 
-![Screenshot 3](https://github.com/klintfox/streamlit_course/assets/0-2.png?raw=true)
+![Screenshot 3](https://github.com/klintfox/streamlit_course/tree/main/assets/0-2.png?raw=true)
 
-![Screenshot 4](https://github.com/klintfox/streamlit_course/assets/0-3.png?raw=true)
+![Screenshot 4](https://github.com/klintfox/streamlit_course/tree/main/assets/0-3.png?raw=true)
 
 ### App1.py 
 
