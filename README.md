@@ -62,30 +62,25 @@ streamlit run app0.py
 ## Assets
 
 <p align="center">
+
 ### Formulario - App0.py
 
 ![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/0.png?raw=true)
 
-</p>
 ***
 
-<p align="center">
 ### Audio, Video Image y Dataframe - App1.py
 
 ![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/1.png?raw=true)
 
-</p>
 ***
 
-<p align="center">
 ### Charts - App2.py
 
 ![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/2.PNG?raw=true)
 
-</p>
 ***
 
-<p align="center">
 ### Carga y Guardado de Archivos - App3.py
 
 ![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/3-0.PNG?raw=true)
@@ -95,4 +90,5 @@ streamlit run app0.py
 ![Screenshot 3](https://github.com/klintfox/streamlit_course/blob/main/assets/3-2.PNG?raw=true)
 
 </p>
+
 ***
