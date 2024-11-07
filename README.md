@@ -64,31 +64,24 @@ streamlit run app0.py
 <p align="center">
 ### Formulario - App0.py
 
-![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/0-0.PNG?raw=true)
+![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/0.PNG?raw=true)
 
-![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/0-1.PNG?raw=true)
-
-![Screenshot 3](https://github.com/klintfox/streamlit_course/blob/main/assets/0-2.PNG?raw=true)
-
-![Screenshot 4](https://github.com/klintfox/streamlit_course/blob/main/assets/0-3.PNG?raw=true)
 </p>
 ***
 
 <p align="center">
 ### Audio, Video Image y Dataframe - App1.py
 
-![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/1-0.PNG?raw=true)
+![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/1.PNG?raw=true)
 
-![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/1-1.PNG?raw=true)
 </p>
 ***
 
 <p align="center">
 ### Charts - App2.py
 
-![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/2-0.PNG?raw=true)
+![Screenshot](https://github.com/klintfox/streamlit_course/blob/main/assets/2.PNG?raw=true)
 
-![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/2-1.PNG?raw=true)
 </p>
 ***
 
