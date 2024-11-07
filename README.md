@@ -62,13 +62,13 @@ streamlit run app0.py
 ## Assets
 
 ### Formulario - App0.py 
-![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/0-0.png?raw=true)
+![Screenshot 1](https://github.com/klintfox/streamlit_course/blob/main/assets/0-0.PNG?raw=true)
 
-![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/0-1.png?raw=true)
+![Screenshot 2](https://github.com/klintfox/streamlit_course/blob/main/assets/0-1.PNG?raw=true)
 
-![Screenshot 3](https://github.com/klintfox/streamlit_course/blob/main/assets/0-2.png?raw=true)
+![Screenshot 3](https://github.com/klintfox/streamlit_course/blob/main/assets/0-2.PNG?raw=true)
 
-![Screenshot 4](https://github.com/klintfox/streamlit_course/blob/main/assets/0-3.png?raw=true)
+![Screenshot 4](https://github.com/klintfox/streamlit_course/blob/main/assets/0-3.PNG?raw=true)
 
 ### Audio, Video Image y Dataframe - App1.py 
 
